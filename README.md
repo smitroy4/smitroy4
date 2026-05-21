@@ -1,4 +1,4 @@
-# Hey, I'm Smit 👋
+# Hey, this's Smit!
 
 ---
 
