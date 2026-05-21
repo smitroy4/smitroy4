@@ -1,9 +1,5 @@
 # Hey, I'm Smit 👋
 
-**Backend Developer** · Java & Spring Boot · Kolkata, India
-
-MCA student (Cloud Computing) | Associate Web Developer | Building production-grade backends with a fintech & cloud focus.
-
 ---
 
 ## Tech Stack
@@ -56,19 +52,3 @@ MCA student (Cloud Computing) | Associate Web Developer | Building production-gr
 - Containerized with Docker and **live-deployed on Render** with PostgreSQL
 - Preloaded with sample data (20 students, 15 courses, 40 enrollments) for instant testing
 - 🔗 [Live API](https://lms-portal-backend-lug7.onrender.com/)
-
----
-
-## GitHub Stats
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=smitroy4&show_icons=true&theme=github_dark&hide_border=true" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=smitroy4&layout=compact&theme=github_dark&hide_border=true" height="150"/>
-</p>
-
----
-
-## Connect
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/smitroy22/)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white)](https://github.com/smitroy4)
