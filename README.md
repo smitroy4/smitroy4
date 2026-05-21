@@ -1,6 +1,6 @@
-# Hey, this's Smit!
+*Get a sneak into my repos and explore the chaos within!*
 
-## Java Backend Developer
+## The Armory
 
 **Languages:**
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
@@ -40,7 +40,6 @@
 ![JWT](https://img.shields.io/badge/JWT_&_OAuth2-000000?style=flat&logo=jsonwebtokens&logoColor=white)
 ![System Design](https://img.shields.io/badge/System_Design-6C3483?style=flat&logo=diagrams.net&logoColor=white)
 ![Microservices](https://img.shields.io/badge/Microservices-FF6F00?style=flat&logo=buffer&logoColor=white)
-
 ##
 
 <p align="left">
