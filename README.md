@@ -36,15 +36,6 @@
 
 ---
 
-## 📌 Currently
-
-- 🔨 Building **ClinixHub** & **StayGrid** for deployment-ready portfolio
-- ☁️ On the path: AWS Cloud Practitioner → Solutions Architect → CKA
-- 📚 Grinding **NeetCode 150** for DSA placement prep
-- 🔍 Targeting Java/Spring Boot roles at TCS, Infosys, Accenture, Cognizant, Wipro
-
----
-
 ## 📊 GitHub Stats
 
 <p align="left">
