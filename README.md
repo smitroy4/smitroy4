@@ -2,7 +2,7 @@
 
 ---
 
-## 🔧 Tech Stack
+## Tech Stack
 
 **Backend**
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
@@ -30,19 +30,19 @@
 ![Microservices](https://img.shields.io/badge/Microservices-FF6F00?style=flat&logo=buffer&logoColor=white)
 ![System Design](https://img.shields.io/badge/System_Design-6C3483?style=flat&logo=diagrams.net&logoColor=white)
 
-**Frontend (Basic)**
+**Frontend**
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
-<p align="left">
+<!-- <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=smitroy4&show_icons=true&theme=github_dark&hide_border=true&cache_seconds=1800" height="150"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=smitroy4&layout=compact&theme=github_dark&hide_border=true&cache_seconds=1800" height="150"/>
 </p>
-
+-->
 <p align="left">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=smitroy4&theme=github-dark&hide_border=true" height="150"/>
 </p>
