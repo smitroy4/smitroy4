@@ -42,6 +42,6 @@
 ![Microservices](https://img.shields.io/badge/Microservices-FF6F00?style=flat&logo=buffer&logoColor=white)
 ##
 
-<p align="left">
+<!-- <p align="left">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=smitroy4&theme=github-dark&hide_border=true" height="150"/>
-</p>
+</p> -->
