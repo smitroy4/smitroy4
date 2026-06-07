@@ -40,7 +40,6 @@
 ![JWT](https://img.shields.io/badge/JWT_&_OAuth2-000000?style=flat&logo=jsonwebtokens&logoColor=white)
 ![System Design](https://img.shields.io/badge/System_Design-6C3483?style=flat&logo=diagrams.net&logoColor=white)
 ![Microservices](https://img.shields.io/badge/Microservices-FF6F00?style=flat&logo=buffer&logoColor=white)
-##
 
 <!-- <p align="left">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=smitroy4&theme=github-dark&hide_border=true" height="150"/>
