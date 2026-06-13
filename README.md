@@ -1,5 +1,7 @@
 *Get a sneak into my repos and explore the chaos within!*
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/smitroy22/) [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat&logo=vercel&logoColor=white)](https://smitroy.vercel.app)
+
 ## The Armory
 
 **Languages:**
@@ -21,6 +23,7 @@
 **Cloud & Deployment:**
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
+![AWS](https://custom-icon-badges.demolab.com/badge/AWS-000000?style=flat&logo=aws&logoColor=white)
 ![Render](https://img.shields.io/badge/Render-46E3B7?style=flat&logo=render&logoColor=black)
 ![Neon](https://img.shields.io/badge/Neon_Serverless-00E699?style=flat&logo=neon&logoColor=black)
 
