@@ -13,15 +13,17 @@
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=spring-boot&logoColor=white)
 ![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=flat&logo=springsecurity&logoColor=white)
 ![Spring Cloud](https://img.shields.io/badge/Spring_Cloud-6DB33F?style=flat&logo=spring&logoColor=white)
+![Resilience4j](https://img.shields.io/badge/Resilience4j-009688?style=flat&logo=buffer&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
 
-**Databases:**
+**Databases & Messaging:**
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white)
+![Apache Kafka](https://img.shields.io/badge/Kafka-231F20?style=flat&logo=apache-kafka&logoColor=white)
 
-**Cloud & Deployment:**
+**DevOps & Cloud:**
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
 ![AWS](https://custom-icon-badges.demolab.com/badge/AWS-000000?style=flat&logo=aws&logoColor=white)
@@ -35,7 +37,7 @@
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
 ![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=flat&logo=swagger&logoColor=black)
 ![JUnit](https://img.shields.io/badge/JUnit-25A162?style=flat&logo=junit5&logoColor=white)
-![Apache Kafka](https://img.shields.io/badge/Kafka-231F20?style=flat&logo=apache-kafka&logoColor=white)
+
 
 **Architecture & Concepts:**
 ![Microservices](https://img.shields.io/badge/Microservices-FF6F00?style=flat&logo=buffer&logoColor=white)
