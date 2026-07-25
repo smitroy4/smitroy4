@@ -35,7 +35,7 @@
 ![DBeaver](https://img.shields.io/badge/DBeaver-372923?style=flat&logo=dbeaver&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
 ![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=flat&logo=swagger&logoColor=black)
-![Resilience4j](https://img.shields.io/badge/Resilience4j-009688?style=flat&logo=buffer&logoColor=white)
+![Resilience4j](https://img.shields.io/badge/Resilience4j-009688?style=flat&logo=cloudflare&logoColor=white)
 
 **Architecture & Concepts:**
 ![Microservices](https://img.shields.io/badge/Microservices-FF6F00?style=flat&logo=buffer&logoColor=white)
