@@ -15,6 +15,13 @@
 ![Spring Cloud](https://img.shields.io/badge/Spring_Cloud-6DB33F?style=flat&logo=spring&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
 
+**AI & LLM Engineering:**
+![Spring AI](https://img.shields.io/badge/Spring_AI-6DB33F?style=flat&logo=spring&logoColor=white)
+![RAG](https://img.shields.io/badge/RAG-7C3AED?style=flat&logo=googlegemini&logoColor=white)
+![LangChain4j](https://img.shields.io/badge/LangChain4j-1C3C3C?style=flat&logo=langchain&logoColor=white)
+![Vector Databases](https://img.shields.io/badge/Vector_Databases-005571?style=flat&logo=databricks&logoColor=white)
+![AI Agents](https://img.shields.io/badge/AI_Agents-FF6F00?style=flat&logo=probot&logoColor=white)
+
 **Databases & Messaging:**
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
